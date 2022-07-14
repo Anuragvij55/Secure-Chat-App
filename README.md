@@ -1,4 +1,4 @@
-## CS3006- Network Security & Cryptography
+## Secure-Chat-App
 
 #### Created a client and server application to provide confidentiality, authentication and integrity using socket programming and encrypted by RSA Algorithm and decrypted by AES variant..
 *Client -*
