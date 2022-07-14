@@ -1,6 +1,6 @@
 ## CS3006- Network Security & Cryptography
 
-#### Q. Created a client and server application to provide confidentiality, authentication and integrity using socket programming and encrypted by RSA Algorithm and decrypted by AES variant..
+#### Created a client and server application to provide confidentiality, authentication and integrity using socket programming and encrypted by RSA Algorithm and decrypted by AES variant..
 *Client -*
 *< input >*
 Message: <>
